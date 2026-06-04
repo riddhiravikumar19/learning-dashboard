@@ -4,7 +4,7 @@ A futuristic, dark-mode-only student dashboard built for the Frontend Intern Cha
 
 ## Live Demo
 
-Vercel link will be added after deployment.
+https://learning-dashboard-rust.vercel.app/
 
 ## Tech Stack
 
